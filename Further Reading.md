@@ -29,3 +29,6 @@
 - https://www.researchgate.net/profile/Zeno-Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf
 - photo response nonuniformity (PRNU)
 - https://www.malwarebytes.com/blog/news/2020/01/deepfakes-laws-and-proposals-flood-us
+- https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/
+- LAION-5B
+- 
