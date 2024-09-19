@@ -14,3 +14,9 @@
 - Prompt Hacking
 - AI alignment
 - Post-processing detection algorithms
+- Anthropic AI
+- conditional pre-training
+- Reinforcement learning from human feedback (RLHF)
+- reinforcement learning from AI feedback (RLAIF)
+- Constitutional AI
+- Google Bard
