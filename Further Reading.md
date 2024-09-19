@@ -12,6 +12,7 @@
 - GROK
 - “unsafe” response
 - Prompt Hacking
+- the liar’s dividend
 - AI alignment
 - Post-processing detection algorithms
 - Anthropic AI
@@ -22,3 +23,9 @@
 - Google Bard
 - How do AI / LLM producers collects and use data?
 - Fair Information Practice Principles (FIPPs) (see [http://mng.bz/j1op](http://mng.bz/j1op)).
+- https://www.darpa.mil/program/media-forensics
+- https://www.darpa.mil/news-events/2021-03-02
+- https://www.youtube.com/watch?v=Crfm3vGoBsM
+- https://www.researchgate.net/profile/Zeno-Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf
+- photo response nonuniformity (PRNU)
+- https://www.malwarebytes.com/blog/news/2020/01/deepfakes-laws-and-proposals-flood-us
