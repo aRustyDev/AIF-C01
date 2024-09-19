@@ -26,4 +26,26 @@
 - VHSIC design with VHDL or Verilog
 - https://efabless.com/open_shuttle_program
 - https://makezine.com/article/electronics/diy-silicon-design-your-own-chips/
-- Make: magazine had an article in the last year about DIY silicon. One approach produces multi-project chips with your share of real estate holding up to about 1k gates. Article mentioned some free design and sim tools. IIRC, there if a free online starter course. Getting a dev board with chip cost a bit over $100 at that time
+- application-specific integrated circuit (ASIC)
+- https://developers.google.com/silicon
+- https://github.com/google/gf180mcu-pdk
+- https://gf180mcu-pdk.readthedocs.io/
+- https://zerotoasiccourse.com/
+- Hackaday Remoticon
+- Wokwi
+- Circuit Design & Simulation tools
+- https://app.siliwiz.com/
+- Learn Verilog
+	- [JavaTPoint](https://www.javatpoint.com/verilog)
+	- [nandland](https://nandland.com/learn-verilog/)
+	- [Intel](https://learning.intel.com/developer/learn/course/external/view/elearning/235/verilog-hdl-basics)
+	- [ChipVerify](https://www.chipverify.com/tutorials/verilog)
+- NPUs
+	- [NPU Methodology](https://www.ee.columbia.edu/~kinget/EE6350_S23/team08_npu_website/methodology.html)
+	- [Why Not to Design an NPU](https://www.brighttalk.com/webcast/19295/569743)
+	- [Superscalar Out-of-Order NPU Design on FPGA](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2024/yg585_kg534_sj778/yg585_kg534_sj778/yg585_kg534_sj778.html)
+	- [NPU Explained](https://www.utmel.com/blog/categories/integrated%20circuit/neural-processing-unit-npu-explained)
+	- [NPU vs TPU](https://medium.com/@craigadebanji46/npu-vs-tpu-the-future-of-ai-hardware-explained-c532c12913fd)
+	- [GPU vs TPU vs NPU](https://www.backblaze.com/blog/ai-101-gpu-vs-tpu-vs-npu/)
+	- [GPU vs TPU vs NPU](http://eitc.org/research-opportunities/new-media-and-new-digital-economy/future-compute-and-microelectronics/cpu-vs-gpu-vs-tpu-vs-npu/)
+- 
