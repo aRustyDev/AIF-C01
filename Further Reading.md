@@ -7,7 +7,7 @@
 - Common Crawl: [https://commoncrawl.org/](https://commoncrawl.org/)
 - [https://huggingface.co/datasets](https://huggingface.co/datasets)
 - The Secret Sharer : https://arxiv.org/pdf/1802.08232.pdf
-- Beyond Data : https://books.google.com/books/about/Beyond_Data.html?hl=&id=zJZuEAAAQBAJ
+- "Beyond Data: Reclaiming Human Rights at the Dawn of the Metaverse" : https://books.google.com/books/about/Beyond_Data.html?hl=&id=zJZuEAAAQBAJ
 - training data extraction attack
 - GROK
 - “unsafe” response
@@ -20,3 +20,5 @@
 - reinforcement learning from AI feedback (RLAIF)
 - Constitutional AI
 - Google Bard
+- How do AI / LLM producers collects and use data?
+- Fair Information Practice Principles (FIPPs) (see [http://mng.bz/j1op](http://mng.bz/j1op)).

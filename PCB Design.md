@@ -30,7 +30,13 @@
 - https://developers.google.com/silicon
 - https://github.com/google/gf180mcu-pdk
 - https://gf180mcu-pdk.readthedocs.io/
-- https://zerotoasiccourse.com/
+- ASICs
+	- https://zerotoasiccourse.com/
+	- Use Cases
+		- Blockchain Ops
+		- NPU design
+		- TPU design
+	- 
 - Hackaday Remoticon
 - Wokwi
 - Circuit Design & Simulation tools
@@ -47,5 +53,5 @@
 	- [NPU Explained](https://www.utmel.com/blog/categories/integrated%20circuit/neural-processing-unit-npu-explained)
 	- [NPU vs TPU](https://medium.com/@craigadebanji46/npu-vs-tpu-the-future-of-ai-hardware-explained-c532c12913fd)
 	- [GPU vs TPU vs NPU](https://www.backblaze.com/blog/ai-101-gpu-vs-tpu-vs-npu/)
-	- [GPU vs TPU vs NPU](http://eitc.org/research-opportunities/new-media-and-new-digital-economy/future-compute-and-microelectronics/cpu-vs-gpu-vs-tpu-vs-npu/)
+	- [CPU vs GPU vs TPU vs NPU](http://eitc.org/research-opportunities/new-media-and-new-digital-economy/future-compute-and-microelectronics/cpu-vs-gpu-vs-tpu-vs-npu/)
 - 

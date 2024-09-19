@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB Design.md",
+                "file": "Further Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCB Design.md",
+                "file": "Further Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCB Design.md",
+                "file": "Further Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB Design.md"
+                "file": "Further Reading.md"
               }
             }
           }
@@ -201,8 +201,8 @@
   },
   "active": "507cd5ea262df44b",
   "lastOpenFiles": [
-    "Further Reading.md",
     "PCB Design.md",
+    "Further Reading.md",
     "Flashcards.md",
     "README.md",
     "Domain-1/TODO.md",
