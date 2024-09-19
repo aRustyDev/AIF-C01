@@ -1,0 +1,9 @@
+- Zero-shot
+- few-shot
+- Emergent properties
+- Autoregressive
+- Fine Tuning
+- Embedding
+- Pre-training
+- bidirectional models
+- _privacy-preserving_ or _privacy-enhancing technologies_ (PETs)

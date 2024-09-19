@@ -1,0 +1,16 @@
+- ROOTS: 1.6 TB multilingual text corpus, which was used to train BLOOM, an LLM
+	- https://arxiv.org/pdf/2302.14035.pdf
+- "Stochastic Parrots"
+- BERT
+- BLOOM
+- Pathways Language Model (PaLM)
+- Common Crawl: [https://commoncrawl.org/](https://commoncrawl.org/)
+- [https://huggingface.co/datasets](https://huggingface.co/datasets)
+- The Secret Sharer : https://arxiv.org/pdf/1802.08232.pdf
+- Beyond Data : https://books.google.com/books/about/Beyond_Data.html?hl=&id=zJZuEAAAQBAJ
+- training data extraction attack
+- GROK
+- “unsafe” response
+- Prompt Hacking
+- AI alignment
+- Post-processing detection algorithms
