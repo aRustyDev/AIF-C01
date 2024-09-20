@@ -17,42 +17,73 @@ learning.
 
 **Objectives:**
 
-- [ ] Recognize applications where AI/ML can provide value (for example, assist #task
-human decision making, solution scalability, automation).
-- [ ] Determine when AI/ML solutions are not appropriate (for example, cost- #task
-benefit analyses, situations when a specific outcome is needed instead of a
-prediction).
-- [ ] Select the appropriate ML techniques for specific use cases (for example, #task
-regression, classification, clustering).
-- [ ] Identify examples of real-world AI applications (for example, computer #task
-vision, NLP, speech recognition, recommendation systems, fraud detection,
-forecasting).
+- [ ] Recognize applications where AI/ML can provide value #task 
+	- [ ] assist human decision making
+	- [ ] solution scalability
+	- [ ] automation
+- [ ] Determine when AI/ML solutions are not appropriate #task 
+	- [ ] cost-benefit analyses
+	- [ ] situations when a specific outcome is needed instead of a prediction
+- [ ] Select the appropriate ML techniques for specific use cases #task 
+	- [ ] regression
+	- [ ] classification
+	- [ ] clustering
+- [ ] Identify examples of real-world AI applications #task 
+	- [ ] computer vision
+	- [ ] NLP
+	- [ ] speech recognition
+	- [ ] recommendation systems
+	- [ ] fraud detection
+	- [ ] forecasting
 - [ ] Describe supervised learning, unsupervised learning, and reinforcement #task
 learning.
-- [ ] Explain the capabilities of AWS managed AI/ML services (for example, #task
-SageMaker, Amazon Transcribe, Amazon Translate, Amazon Comprehend,
-Amazon Lex, Amazon Polly).
+- [ ] Explain the capabilities of AWS managed AI/ML services #task
+	- [ ] SageMaker
+	- [ ] Amazon Transcribe
+	- [ ] Amazon Translate
+	- [ ] Amazon Comprehend
+	- [ ] Amazon Lex
+	- [ ] Amazon Polly
 
 ## Task Statement 1.3: Describe the ML development lifecycle.
 
 **Objectives:**
 
-- [ ] Describe components of an ML pipeline (for example, data collection, #task
-exploratory data analysis [EDA], data pre-processing, feature engineering,
-model training, hyperparameter tuning, evaluation, deployment,
-monitoring).
-- [ ] Understand sources of ML models (for example, open source pre-trained #task
-models, training custom models).
-- [ ] Describe methods to use a model in production (for example, managed API #task
-service, self-hosted API).
+- [ ] Describe components of an ML pipeline #task 
+	- [ ] data collection
+	- [ ] exploratory data analysis [EDA]
+	- [ ] data pre-processing
+	- [ ] feature engineering
+	- [ ] model training
+	- [ ] hyper-parameter tuning
+	- [ ] evaluation
+	- [ ] deployment
+	- [ ] monitoring
+- [ ] Understand sources of ML models #task
+	- [ ] open source pre-trained models
+		- [ ] Find some sources
+	- [ ] training custom models
+- [ ] Describe methods to use a model in production #task
+	- [ ] managed API service
+	- [ ] self-hosted API
 - [ ] Identify relevant AWS services and features for each stage of an ML pipeline #task
-(for example, SageMaker, Amazon SageMaker Data Wrangler, Amazon
-SageMaker Feature Store, Amazon SageMaker Model Monitor).
-- [ ] Understand fundamental concepts of ML operations (MLOps) (for example, #task
-experimentation, repeatable processes, scalable systems, managing
-technical debt, achieving production readiness, model monitoring, model
-re-training).
-- [ ] Understand model performance metrics (for example, accuracy, Area Under #task
-the ROC Curve [AUC], F1 score) and business metrics (for example, cost per
-user, development costs, customer feedback, return on investment [ROI]) to
-evaluate ML models.
+	- [ ] SageMaker
+	- [ ] Amazon SageMaker Data Wrangler
+	- [ ] Amazon SageMaker Feature Store
+	- [ ] Amazon SageMaker Model Monitor
+- [ ] Understand fundamental concepts of ML operations (MLOps) #task
+	- [ ] experimentation
+	- [ ] repeatable processes
+	- [ ] scalable systems
+	- [ ] managing technical debt
+	- [ ] achieving production readiness
+	- [ ] model monitoring
+	- [ ] model re-training
+- [ ] Understand model performance metrics and business metrics to evaluate ML models.  #task
+	- [ ] accuracy
+	- [ ] Area Under the ROC Curve [AUC]
+	- [ ] F1 score 
+	- [ ] cost per user
+	- [ ] development costs
+	- [ ] customer feedback
+	- [ ] return on investment [ROI]
