@@ -48,5 +48,9 @@
 - open source model StarCoder (see http://mng.bz/yQlE).
 - DiagramGPT, powered by GPT-4 and created by Eraser, a developer of brainstorming and diagram tools, is just one example of novel LLM-powered capabilities (see http://mng.bz/MBNm). It takes a schema, infrastructure definition, or code snippet as input and produces a diagram for the system described so that a person unfamiliar with the code or schema can easily visualize what’s going on.
 - Prompt Engineering
+- AutoGPT
+- LangChain (see http://mng.bz/a1WY) 
+
+
   - https://prompthero.com/
 - 
