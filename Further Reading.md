@@ -39,4 +39,6 @@
 - GLTR (see [http://gltr.io/](http://gltr.io/))
 - Deep Graph NN (https://doi.org/10.18653/v1/2020.emnlp-main.193)
 - https://arxiv.org/pdf/2111.02878.pdf
-- 
+- Amazon’s CodeWhisperer (see http://mng.bz/QPAe)
+- Replit’s Ghostwriter (see http://mng.bz/XNvM)
+- open source model StarCoder (see http://mng.bz/yQlE). 
