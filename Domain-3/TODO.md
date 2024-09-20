@@ -38,7 +38,10 @@
 **Objectives:**
 
 - [ ] Describe the concepts and constructs of prompt engineering #task
-	- [ ] context, instruction, negative prompts, model latent space
+	- [ ] context
+	- [ ] instruction
+	- [ ] negative prompts
+	- [ ] model latent space
 - [ ] Understand techniques for prompt engineering #task 
 	- [ ] chain-of-thought
 	- [ ] zero-shot
