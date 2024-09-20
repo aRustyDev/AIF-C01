@@ -31,4 +31,7 @@
 - https://www.malwarebytes.com/blog/news/2020/01/deepfakes-laws-and-proposals-flood-us
 - https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/
 - LAION-5B
-- 
+- GPTZero (see [https://gptzero.me/](https://gptzero.me/)) 
+- ZeroGPT (see [www.zerogpt.com/](https://www.zerogpt.com/))
+- Prompt injection attacks
+- indirect prompt injection attacks
