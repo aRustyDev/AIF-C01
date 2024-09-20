@@ -41,4 +41,8 @@
 - https://arxiv.org/pdf/2111.02878.pdf
 - Amazon’s CodeWhisperer (see http://mng.bz/QPAe)
 - Replit’s Ghostwriter (see http://mng.bz/XNvM)
-- open source model StarCoder (see http://mng.bz/yQlE). 
+- open source model StarCoder (see http://mng.bz/yQlE).
+- DiagramGPT, powered by GPT-4 and created by Eraser, a developer of brainstorming and diagram tools, is just one example of novel LLM-powered capabilities (see http://mng.bz/MBNm). It takes a schema, infrastructure definition, or code snippet as input and produces a diagram for the system described so that a person unfamiliar with the code or schema can easily visualize what’s going on.
+- Prompt Engineering
+  - https://prompthero.com/
+- 
