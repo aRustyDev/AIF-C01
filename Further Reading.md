@@ -8,6 +8,7 @@
   - Google Bard
   - Anthropic AI
 - DataSets
+  - http://arxiv.org/abs/1803.09010
   - ROOTS: 1.6 TB multilingual text corpus, which was used to train BLOOM, an LLM
     - https://arxiv.org/pdf/2302.14035.pdf
   - Common Crawl: [https://commoncrawl.org/](https://commoncrawl.org/)
@@ -48,6 +49,7 @@
 - open source model StarCoder (see http://mng.bz/yQlE).
 - DiagramGPT, powered by GPT-4 and created by Eraser, a developer of brainstorming and diagram tools, is just one example of novel LLM-powered capabilities (see http://mng.bz/MBNm). It takes a schema, infrastructure definition, or code snippet as input and produces a diagram for the system described so that a person unfamiliar with the code or schema can easily visualize what’s going on.
 - Prompt Engineering
+  - https://prompthero.com/
 - AutoGPT
 - LangChain (see http://mng.bz/a1WY)
 - https://github.com/kaushikb11/awesome-llm-agents
@@ -69,7 +71,6 @@
   - https://arxiv.org/html/2407.21075v1
 - https://incidentdatabase.ai/
 - Replika
-
-
-  - https://prompthero.com/
-- 
+- https://llm-attacks.org/
+- Synthetic Data Generation
+- LLM Watermarking
