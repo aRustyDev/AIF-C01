@@ -35,3 +35,8 @@
 - ZeroGPT (see [www.zerogpt.com/](https://www.zerogpt.com/))
 - Prompt injection attacks
 - indirect prompt injection attacks
+- [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
+- GLTR (see [http://gltr.io/](http://gltr.io/))
+- Deep Graph NN (https://doi.org/10.18653/v1/2020.emnlp-main.193)
+- https://arxiv.org/pdf/2111.02878.pdf
+- 
