@@ -51,6 +51,24 @@
 - AutoGPT
 - LangChain (see http://mng.bz/a1WY)
 - https://github.com/kaushikb11/awesome-llm-agents
+- Apple
+  - https://aragonresearch.com/apple-unveils-its-own-realm-llm-models/
+  - https://machinelearning.apple.com/research/leveraging-large-language-models
+  - https://machinelearning.apple.com/research/introducing-apple-foundation-models
+  - https://machinelearning.apple.com/research/openelm
+  - https://machinelearning.apple.com/research/llm-device-directed-speech-detection
+  - https://www.ben-evans.com/benedictevans/2024/06/20/apple-intelligence
+  - https://www.theregister.com/2024/04/24/apple_openelm_ai/
+  - https://www.theinformation.com/articles/apple-eyes-deals-with-google-and-anthropic-after-openai-apple-grades-its-llms-while-databricks-grades-ai-usage
+  - https://machinelearning.apple.com/research/ferret
+  - https://machinelearning.apple.com/research/mm1-methods-analysis-insights
+  - https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-intelligence-siri-gets-an-llm-brain-transplant-chatgpt-integration-and-genmojis
+  - https://www.infoq.com/news/2024/06/apple-swift-assist-llm/
+  - https://privatellm.app/en
+  - https://predibase.com/blog/breaking-down-apples-reference-architecture-for-genai-small-fine-tuned-and
+  - https://arxiv.org/html/2407.21075v1
+- https://incidentdatabase.ai/
+- Replika
 
 
   - https://prompthero.com/
