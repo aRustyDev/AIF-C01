@@ -1,26 +1,32 @@
-- ROOTS: 1.6 TB multilingual text corpus, which was used to train BLOOM, an LLM
-	- https://arxiv.org/pdf/2302.14035.pdf
+
 - "Stochastic Parrots"
-- BERT
-- BLOOM
-- Pathways Language Model (PaLM)
-- Common Crawl: [https://commoncrawl.org/](https://commoncrawl.org/)
-- [https://huggingface.co/datasets](https://huggingface.co/datasets)
+- Models
+  - BERT
+  - BLOOM
+  - Pathways Language Model (PaLM)
+  - GROK
+  - Google Bard
+  - Anthropic AI
+- DataSets
+  - ROOTS: 1.6 TB multilingual text corpus, which was used to train BLOOM, an LLM
+    - https://arxiv.org/pdf/2302.14035.pdf
+  - Common Crawl: [https://commoncrawl.org/](https://commoncrawl.org/)
+  - LAION-5B
+    - https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/
+- Registries
+  - [https://huggingface.co/datasets](https://huggingface.co/datasets)
 - The Secret Sharer : https://arxiv.org/pdf/1802.08232.pdf
 - "Beyond Data: Reclaiming Human Rights at the Dawn of the Metaverse" : https://books.google.com/books/about/Beyond_Data.html?hl=&id=zJZuEAAAQBAJ
 - training data extraction attack
-- GROK
 - “unsafe” response
 - Prompt Hacking
 - the liar’s dividend
 - AI alignment
 - Post-processing detection algorithms
-- Anthropic AI
 - conditional pre-training
 - Reinforcement learning from human feedback (RLHF)
 - reinforcement learning from AI feedback (RLAIF)
 - Constitutional AI
-- Google Bard
 - How do AI / LLM producers collects and use data?
 - Fair Information Practice Principles (FIPPs) (see [http://mng.bz/j1op](http://mng.bz/j1op)).
 - https://www.darpa.mil/program/media-forensics
@@ -29,8 +35,6 @@
 - https://www.researchgate.net/profile/Zeno-Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf
 - photo response nonuniformity (PRNU)
 - https://www.malwarebytes.com/blog/news/2020/01/deepfakes-laws-and-proposals-flood-us
-- https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/
-- LAION-5B
 - GPTZero (see [https://gptzero.me/](https://gptzero.me/)) 
 - ZeroGPT (see [www.zerogpt.com/](https://www.zerogpt.com/))
 - Prompt injection attacks
