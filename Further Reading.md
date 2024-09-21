@@ -74,3 +74,6 @@
 - https://llm-attacks.org/
 - Synthetic Data Generation
 - LLM Watermarking
+- Illumina, a genetic sequencing company, announced a partnership with the synthetic data start-up Gretel.ai to create synthetic genome data that could be extremely useful in healthcare, without divulging any individual’s genetic information
+- Perhaps its landmark text on the subject is the Blueprint for an AI Bill of Rights, authored by the White House Office of Science and Technology Policy (OSTP) (see http://mng.bz/wv8g)
+- https://stability.ai/stablediffusion
