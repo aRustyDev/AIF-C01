@@ -77,3 +77,20 @@
 - Illumina, a genetic sequencing company, announced a partnership with the synthetic data start-up Gretel.ai to create synthetic genome data that could be extremely useful in healthcare, without divulging any individual’s genetic information
 - Perhaps its landmark text on the subject is the Blueprint for an AI Bill of Rights, authored by the White House Office of Science and Technology Policy (OSTP) (see http://mng.bz/wv8g)
 - https://stability.ai/stablediffusion
+- Predictive Techniques
+  - Classification Based
+    - Naive Bayes
+    - Nearest Neighbor
+    - SVM
+  - Regression Based
+    - Linear Regression
+    - Neural Networks
+    - Decision Trees
+- Discriminant Techniques
+  - Clustering Based
+    - DBSCAN
+    - Gaussian Mixture Models
+    - Gaussian Expectation-minimization
+    - k-means
+    - k-harmonic
+    - fuzzy k-means
