@@ -90,7 +90,10 @@
   - Clustering Based
     - DBSCAN
     - Gaussian Mixture Models
+    - Gaussian Matrix
     - Gaussian Expectation-minimization
     - k-means
     - k-harmonic
     - fuzzy k-means
+    - Neural Network
+    - Hidden Markov
