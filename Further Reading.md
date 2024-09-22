@@ -84,6 +84,8 @@
     - SVM
   - Regression Based
     - Linear Regression
+    - Polynomial Regression
+    - Logistic Regression
     - Neural Networks
     - Decision Trees
 - Discriminant Techniques
@@ -97,3 +99,14 @@
     - fuzzy k-means
     - Neural Network
     - Hidden Markov
+- Useful Functions
+  - Sigmoid Function
+  - Radial Basis Function (RBF); irt SVM
+  - Cost Function
+  - Bellman Value Equation
+- How to have variable "learn rate" based off of current errors. ie if learn rate is high but causes destabilization, and then looks back N epochs to restart and modifies learning rate to try and prevent future destabilization.
+- https://ml-ops.org/content/mlops-stack-canvas
+- Gini Impurity
+- Reinforcement Learning
+  - Model based vs Model Free
+  - Q Learning
